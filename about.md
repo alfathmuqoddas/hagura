@@ -4,7 +4,7 @@ layout: post
 permalink: /about/
 published: true
 ---
-![yeah](https://source.unsplash.com/random/800x600)
+![yeah](https://source.unsplash.com/random/400x300)
 
 For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
 
